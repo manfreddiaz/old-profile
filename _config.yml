@@ -1,9 +1,9 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Manfred Diaz
+bio: 
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A bit more about myself away from on social media
 
 # if it's an external image, update below for true
 # better with square images
@@ -13,10 +13,10 @@ picture: assets/images/profile.jpg
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
+resume-external: false
 resume-url: assets/CV.pdf
 
-url: https://koppl.in/indigo
+url: https://takeitallsource.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -35,21 +35,21 @@ disqus:
 
 # if you don't have any of social below, comment the line
 facebook: myfacebook
-twitter: mytwitter
+twitter: https://twitter.com/linuxpotter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: https://github/takeitallsource
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
-email: myemail@gmail.com
+email: takeitallsource@gmail.com
 
 authors:
     johndoe:
@@ -78,20 +78,20 @@ width: normal
 projects: true
 
 # if you don't need "about" or "blog", comment them out below
-about: true
-blog: true
+#about: true
+#blog: true
 
 # do you want to show the "read time" of the posts?
-read-time: true
+# read-time: true
 
 # do you want to show the "tags" inside the posts?
-show-tags: true
+# show-tags: true
 
 # related posts inside a post?
-related: true
+# related: true
 
 # Display links for next and previous posts for the specified categories
-post-advance-links: [blog]
+# post-advance-links: [blog]
 
 # show author block at the end of a post ?
 show-author: true
